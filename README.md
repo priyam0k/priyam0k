@@ -12,7 +12,7 @@ Hi, I'm Priyam Alok!
 
 <p align="center">
   <a href="https://ipriyam.com/" target="_blank" rel="noreferrer"><img src="IMG-20260301-WA0003.jpg" alt="my banner" width="100%"></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Actuarial+Model+Development;Rust+Developer;Insurance+Analytics;Risk+Modeling;Data+Engineering;P%26C+Reserving" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Actuarial+Model+Development;Non+Life+Reserving;Non+Life+Pricing;Rust+Developer;Insurance+Analytics;Data+Engineering" alt="Typing SVG" /></a>
 </p> 
 
 ## About Me
@@ -23,8 +23,8 @@ Hi, I'm Priyam Alok!
 ## I'm interested in
   - Actuarial Science, Insurance Pricing & Reserving
   - Rust Development, Systems Programming
-  - P&C Insurance Analytics, Loss Ratio Modeling
-  - Risk Management, Parametric Insurance Solutions
+  - P&C Insurance Analytics, Loss Ratio Analytics
+  - Risk Management, 
   - Data Pipelines, ETL Systems
   - Machine Learning for Insurance
   - Customer Segmentation & Behavioral Analytics
