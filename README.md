@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Priyam Alok!
+Hi, I'm Priyam!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> 
 <h3 align="center">@priyam0k</h3> 
 
