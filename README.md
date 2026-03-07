@@ -57,16 +57,6 @@ Hi, I'm Priyam!
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23DC143C.svg?logo=PyTorch&logoColor=white"></a>
 </p>
 
-### Actuarial & Analytics Projects
-
-- [Pricing Simulation Case Competition](https://ipriyam.com/pricing-simulation-case-competition.html)
-- [Parametric Crop Insurance](https://ipriyam.com/parametric-crop-insurance-project.html)
-- [P&C Chain Ladder Reserving](https://ipriyam.com/p&c-chain-laddere-reserving.html)
-- [Loss Ratio Dashboards](https://ipriyam.com/loss-ratio-dashboards.html)
-- [Customer Segmentation](https://ipriyam.com/customer-segmentation.html)
-- [Claim Data Pipeline](https://ipriyam.com/claim-data-pipeline.html)
-- [Impact of Electric Vehicles Report](https://ipriyam.com/impact-of-electric-vehicles-report)
-
 ## Connect with Me
 
 <a href="https://www.linkedin.com/in/priyam-alok-9837122b3/"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/LinkedIN.svg" alt="Priyam Alok | LinkedIn" width="50px"/></a>
