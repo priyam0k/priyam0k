@@ -23,7 +23,7 @@
 ### links
 
 <a href="https://www.linkedin.com/in/priyam-alok-9837122b3/"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="44px"/></a>
-<a href="https://x.com/prm0k"><img align="left" src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" height="40px"/></a>
+<a href="https://x.com/prm0k"><img align="left" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/x.svg" alt="X" width="44px"/></a>
 <a href="https://ipriyam.com/"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/WWW.svg" alt="website" width="44px"/></a>
 <a href="mailto:priyamok.dev@gmail.com"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Gmail.svg" alt="Gmail" width="44px"/></a>
 <a href="https://medium.com/@priyam0k"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Medium.svg" alt="Medium" width="44px"/></a>
